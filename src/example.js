@@ -1,5 +1,5 @@
-let unusedVar = "test"
-console.log('Hello world')
 function test() {
-  return "double quotes"
+  return 'single quotes';
 }
+
+console.log('Hello world');
